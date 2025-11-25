@@ -17,12 +17,33 @@
 ---
 
 ## 💼 Featured Projects
+AI-Gmail-Agent
 
-- **[GenerativeAI-Teaching-Assistant](#)** – Developed a LLM-based teaching assistant for CS courses with prompt engineering and integration pipelines to improve personalized learning.  
-- **[AI-Gmail-Agent](#)** – Building an autonomous agent for Gmail management using LLMs, LangChain, and LangGraph, automating email organization and follow-ups.  
-- **[Network-GenAI-Assistant](#)** – Networking assistant using RAG and LLMs to optimize LinkedIn profiles and content strategy.  
+Autonomous email management assistant leveraging LLMs, LangChain, and LangGraph. Automates inbox organization, prioritization, and follow-ups to streamline daily email workflows.
 
+Network-GenAI-Assistant
 
+LinkedIn optimization tool that uses RAG and LLMs to provide personalized recommendations for profile improvements, content strategy, and professional networking. Integrates OCR and web scraping to analyze example profiles and generate actionable tips.
+
+Try the app here:[ Network Assistant App](https://network-assistant.streamlit.app/)
+
+AI Legal Assistant Chatbot
+
+An AI-powered legal assistant built with Streamlit, GPT models, and Azure. Users can upload legal documents, ask questions, and receive simplified explanations of complex clauses. The assistant uses document embeddings to retrieve relevant sections and GPT-4 to generate context-aware, user-friendly responses.
+
+Features:
+
+Upload PDF documents for analysis
+
+Simplified explanations of legal clauses
+
+Contextual responses using document embeddings
+
+Interactive Streamlit chat interface with feedback mechanism
+
+Configurable model parameters (temperature, model selection)
+
+Try the app here: [Legal Assistant App](https://legalaiassistant-jgyfw48mfe7dardka2gwuk.streamlit.app/)
 ---
 
 ## 📫 Contact
